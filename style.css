@@ -39,3 +39,10 @@ h2{
     text-transform: capitalize;
     color: rgb(136, 136, 194);
 }
+@media (max-width:558px){
+    .container{
+        width: 25rem;
+        padding: 38px 37px;
+        border: 12px;
+    }
+}
