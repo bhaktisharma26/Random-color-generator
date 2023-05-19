@@ -46,3 +46,17 @@ h2{
         border: 12px;
     }
 }
+@media (max-width:411px){
+    .container{
+        width: 20rem;
+        padding: 30px 30px;
+        border: 7px;
+    }
+}
+@media (max-width:318px){
+    .container{
+        width: 16rem;
+        padding: 22px 29px;
+        border: 1px;
+    }
+}
